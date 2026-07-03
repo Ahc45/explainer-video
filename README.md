@@ -26,6 +26,8 @@
 
 ---
 
+> 📦 **This is a Claude Code Skill repo.** It packages the `explainer-video` skill as a Claude Code plugin — install it into Claude Code and run the whole pipeline with `/explainer-video`. See [Install](#-install) below.
+
 Multi-agent pipeline, **free TTS** (edge-tts), no API keys. Every video is kept in
 sync by a shared `timing_contract.json` so narration and visuals never drift.
 
