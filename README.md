@@ -9,7 +9,7 @@ SFX → Manim animation → composited MP4. Multi-agent pipeline, free TTS
 
 ```bash
 # 1. Add this repo as a plugin marketplace
-/plugin marketplace add YOUR_GITHUB_USER/explainer-video
+/plugin marketplace add Ahc45/explainer-video
 
 # 2. Install the plugin
 /plugin install explainer-video@explainer-video-marketplace
@@ -26,7 +26,7 @@ Invoke with `/explainer-video`.
 Clone the skill straight into your skills dir:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USER/explainer-video /tmp/ev \
+git clone https://github.com/Ahc45/explainer-video /tmp/ev \
   && cp -r /tmp/ev/plugins/explainer-video/skills/explainer-video ~/.claude/skills/
 ```
 
