@@ -1,0 +1,101 @@
+{
+  "title": "What is Machine Learning?",
+  "series": "30 Days of AI",
+  "day": 1,
+  "voice": "en-US-GuyNeural",
+  "palette": {
+    "bg": "#0A0A0A",
+    "primary": "#00F5FF",
+    "secondary": "#FF00FF",
+    "accent": "#39FF14",
+    "dim": "#555555",
+    "text": "#FFFFFF"
+  },
+  "scenes": [
+    {
+      "id": "Scene1_Hook",
+      "narration": "Your phone recognizes your face. Your email filters spam. Your feed knows what you'll watch. They all learned \u2014 without being programmed.",
+      "visual_spec": "Icons appear in sequence: phone with face outline, email envelope with shield, play button with sparkles. Each pulses on its keyword, then all three orbit a central question mark that morphs into a brain.",
+      "sfx": [
+        {
+          "sound": "whoosh.mp3",
+          "offset": 0.0
+        },
+        {
+          "sound": "pop.mp3",
+          "offset": 0.8
+        },
+        {
+          "sound": "pop.mp3",
+          "offset": 2.0
+        },
+        {
+          "sound": "pop.mp3",
+          "offset": 3.2
+        }
+      ],
+      "duration": 11.376
+    },
+    {
+      "id": "Scene2_Traditional",
+      "narration": "Traditional programming is rules. If this, then that. A human writes every instruction.",
+      "visual_spec": "Code block appears with 'if/else' statements. Arrows flow top-to-bottom through the logic. A stick figure labeled 'Developer' types the rules. Mechanical, rigid feel.",
+      "sfx": [
+        {
+          "sound": "typing.mp3",
+          "offset": 0.5
+        }
+      ],
+      "duration": 8.28
+    },
+    {
+      "id": "Scene3_MLDifference",
+      "narration": "Machine Learning flips it. You give it examples \u2014 thousands of them \u2014 and it figures out the rules itself.",
+      "visual_spec": "The code block shrinks and moves aside. A flood of data points (images, numbers, text snippets) streams in from the left. They funnel into a box labeled 'Model'. The box glows and outputs 'RULES' on the right. Visual flip/transformation moment.",
+      "sfx": [
+        {
+          "sound": "whoosh.mp3",
+          "offset": 0.3
+        },
+        {
+          "sound": "bass_drop.mp3",
+          "offset": 3.5
+        }
+      ],
+      "duration": 7.464
+    },
+    {
+      "id": "Scene4_HowItWorks",
+      "narration": "Show it ten thousand cats, ten thousand dogs. It learns the patterns \u2014 ears, fur, shape \u2014 until it can tell them apart on its own.",
+      "visual_spec": "Split screen: left side shows cat photos cascading, right shows dog photos. A neural network icon in the center 'absorbs' them. Feature callouts appear: pointy ears, whiskers, snout shapes. A new unlabeled photo enters, the model outputs 'CAT' with a checkmark.",
+      "sfx": [
+        {
+          "sound": "pop.mp3",
+          "offset": 1.0
+        },
+        {
+          "sound": "pop.mp3",
+          "offset": 2.2
+        },
+        {
+          "sound": "ding.mp3",
+          "offset": 5.5
+        }
+      ],
+      "duration": 9.36
+    },
+    {
+      "id": "Scene5_Payoff",
+      "narration": "That's Machine Learning: teaching computers to learn from data, not from instructions.",
+      "visual_spec": "Clean summary frame. Text 'Machine Learning' in large primary color. Below it: two columns \u2014 crossed-out 'Instructions' on left, glowing 'Data \u2192 Patterns \u2192 Predictions' flow on right. Minimal, memorable.",
+      "sfx": [
+        {
+          "sound": "success.mp3",
+          "offset": 2.0
+        }
+      ],
+      "duration": 5.616
+    }
+  ],
+  "total_duration": 42.1
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Neon Tech",
+  "brand": "KnowWat",
+  "palette": {
+    "bg": "#0A0A0A",
+    "primary": "#00F5FF",
+    "secondary": "#FF00FF",
+    "accent": "#39FF14",
+    "dim": "#555555",
+    "text": "#FFFFFF"
+  },
+  "font": "Menlo",
+  "font_sizes": { "title": 64, "heading": 44, "body": 36, "label": 28, "caption": 26 },
+  "intro": { "kicker": "DAY 1 — 30 DAYS OF AI", "show_underline": true },
+  "outro": { "cta": "Follow for Day 2", "tagline": "AI, explained in 40 seconds." },
+  "watermark": { "enabled": true, "opacity": 0.35, "corner": "DR" },
+  "captions": {
+    "enabled": false, "font_size": 16,
+    "primary_color": "&H00FFFFFF", "outline_color": "&H00000000",
+    "outline": 3, "margin_v": 220, "bold": 1
+  }
+}

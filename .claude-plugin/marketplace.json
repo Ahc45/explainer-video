@@ -1,0 +1,14 @@
+{
+  "name": "explainer-video-marketplace",
+  "owner": {
+    "name": "Dave",
+    "email": "davemarkcandar@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "explainer-video",
+      "source": "./plugins/explainer-video",
+      "description": "Automated explainer-video pipeline: topic -> script -> voiceover -> optional SFX -> Manim animation -> synced portrait MP4. Multi-agent, free TTS."
+    }
+  ]
+}

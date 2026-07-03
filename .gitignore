@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Pipeline output (generated per project, not shipped)
+audio/
+audio_mixed/
+media/
+muxed/
+concat.txt
+captions.ass
+*.mp4
+
+# OS
+.DS_Store

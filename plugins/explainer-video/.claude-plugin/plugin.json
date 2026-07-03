@@ -1,0 +1,10 @@
+{
+  "name": "explainer-video",
+  "description": "Automated explainer-video pipeline: topic -> script -> voiceover -> optional SFX -> Manim animation -> synced portrait MP4. Multi-agent, free TTS.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Dave",
+    "email": "davemarkcandar@gmail.com"
+  },
+  "license": "MIT"
+}
