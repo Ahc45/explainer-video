@@ -1,4 +1,4 @@
-<h1 align="center">🎬 explainer-video</h1>
+<h1 align="center">Claude Skill - 🎬 explainer-video</h1>
 
 <p align="center">
   <em>Turn any topic into a finished, voiced, synced <strong>portrait 9:16</strong> explainer video —<br/>
@@ -53,7 +53,7 @@ sync by a shared `timing_contract.json` so narration and visuals never drift.
 
 Then install the runtime prerequisites (Python, ffmpeg, manim, edge-tts) —
 see **[run.md](./run.md)**. In Claude Code you can just say
-*“follow run.md to install the prerequisites.”*
+_“follow run.md to install the prerequisites.”_
 
 Invoke with `/explainer-video`.
 
@@ -68,12 +68,12 @@ git clone https://github.com/Ahc45/explainer-video /tmp/ev \
 
 ## 🧰 Prerequisites
 
-| Tool | Required? | For |
-|------|-----------|-----|
-| `python3`, `ffmpeg`, `manim`, `edge-tts` | ✅ core | the whole pipeline |
-| `pydub` | optional | SFX mixing |
-| Node + `tech-stack-icons` | optional | brand icons |
-| LaTeX (MacTeX / TeX Live) | optional | `MathTex` equations |
+| Tool                                     | Required? | For                 |
+| ---------------------------------------- | --------- | ------------------- |
+| `python3`, `ffmpeg`, `manim`, `edge-tts` | ✅ core   | the whole pipeline  |
+| `pydub`                                  | optional  | SFX mixing          |
+| Node + `tech-stack-icons`                | optional  | brand icons         |
+| LaTeX (MacTeX / TeX Live)                | optional  | `MathTex` equations |
 
 Full setup in **[run.md](./run.md)**.
 
